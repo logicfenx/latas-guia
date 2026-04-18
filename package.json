@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/latas-guia",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a latas-guia",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/latas-guia.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://www.stockbitcoin.info/es/latas/"
+    },
+    "homepage": "https://www.stockbitcoin.info/es/latas/"
+}
